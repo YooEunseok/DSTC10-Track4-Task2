@@ -1,0 +1,10 @@
+## igore files ##
+
+.vector_cache/
+checkpoints/
+checkpoints1/
+checkpoints2/
+data/
+imgs/
+log/
+journal.zip
